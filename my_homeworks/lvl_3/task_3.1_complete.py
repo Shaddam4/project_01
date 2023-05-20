@@ -71,4 +71,4 @@ print(m.get_num_rows()) # вывод количества строк
 print(m.get_num_cols()) # вывод количества колонок
 print(m.get_value(1, 2)) # вывод значения ячейки (строка, колонка)
 
-m.print_matrix() # output:
+m.print_matrix() # Вывод матрицы
